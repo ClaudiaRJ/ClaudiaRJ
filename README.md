@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/es/view/care-pixel-background-aesthetic-purple-gif-10978299763656446113" width="100%" alt="Cyberpunk Banner"/>
+  <img src="https://media.tenor.com/whC3l2qCWAQAAAAC/pixel-night.gif" width="100%" alt="Cyberpunk Banner"/>
 </p>
 
 # Hi there I'm Claudia!👋
