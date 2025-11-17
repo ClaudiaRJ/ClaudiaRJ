@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/OzZ9s1u.gif" width="100%" alt="Cyberpunk Banner"/>
+</p>
+
 # Hi there I'm Claudia!👋
 
 - 💤 Currently working on my own webpage as portfolio
