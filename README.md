@@ -1,5 +1,5 @@
 <p align="center">
-https://github.com/user-attachments/assets/799ce5a0-894b-4de2-baeb-416fd5a2b616
+![xOgKJXm](https://github.com/user-attachments/assets/9724b4e5-6376-4a76-8bd9-1b8296dbd502)
 </p>
 
 # Hi there I'm Claudia!👋
