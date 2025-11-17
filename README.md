@@ -4,8 +4,6 @@
 - 🌐 Currently learning React and Redux for frontend and Python for backend
 - 📚 Studied on IFP the grade of DAM on Spain, Barcelona
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-
 # Tech Stack
 ## Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
