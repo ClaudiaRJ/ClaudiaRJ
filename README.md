@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/whC3l2qCWAQAAAAC/pixel-night.gif" width="100%" alt="Cyberpunk Banner"/>
+https://github.com/user-attachments/assets/799ce5a0-894b-4de2-baeb-416fd5a2b616
 </p>
 
 # Hi there I'm Claudia!👋
