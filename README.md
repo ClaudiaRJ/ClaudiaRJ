@@ -2,7 +2,7 @@
 
 - 💤 Currently working on my own webpage as portfolio
 - 🌐 Currently learning React and Redux for frontend and Python for backend
-- 📚 Studied on IFP the grade of DAM on Spain, Barcelona
+- 📚 Studied on DAM grade of IFP in Spain, Barcelona
 
 # Tech Stack
 ## Languages
