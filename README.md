@@ -1,8 +1,7 @@
 # Hi there I'm Claudia!👋
-
-- 💤 Currently working on my own webpage as portfolio
-- 🌐 Currently learning React and Redux for frontend and Python for backend
-- 📚 Studied on DAM grade of IFP in Spain, Barcelona
+- 💤 Currently working on my own webpage as a portfolio 
+- 🌐 Currently learning React and Redux for frontend and Python for backend 
+- 📚 Studied in the DAM program at IFP in Barcelona , Spain  
 
 # Tech Stack
 ## Languages
