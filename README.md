@@ -5,4 +5,4 @@
 - 📚 Studied on IFP the grade of DAM
 
 <!-- GithHub Stats from Anurga's Stats https://github.com/anuraghazra/github-readme-stats-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudiaRJ)](https://github.com/anuraghazra/github-readme-stats)
