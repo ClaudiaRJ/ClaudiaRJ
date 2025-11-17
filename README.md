@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7cf50866-83bd-4a90-86f7-250223f0ef06" alt="Cyberpunk Banner" width="50%">
+  <img src="https://github.com/user-attachments/assets/7cf50866-83bd-4a90-86f7-250223f0ef06" alt="Cyberpunk Banner" width="100%">
 </p>
 
 # Hi there I'm Claudia!👋
