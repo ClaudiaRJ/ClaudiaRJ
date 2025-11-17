@@ -1,11 +1,11 @@
-### Hi there I'm Claudia!👋
+# Hi there I'm Claudia!👋
 
 - 💤 Currently working on my own webpage as portfolio
 - 🌐 Currently learning React and Redux for frontend and Python for backend
 - 📚 Studied on IFP the grade of DAM
 
-## Tech Stack
-# Languages
+# Tech Stack
+## Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -15,12 +15,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# Design / IDES
+## Design / IDES
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-## Github Stats 📊
+# Github Stats 📊
 <!-- GithHub Stats from Anurga's Stats https://github.com/anuraghazra/github-readme-stats-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudiaRJ&show_icons=true&theme=transparent)
