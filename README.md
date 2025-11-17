@@ -1,6 +1,5 @@
-<p align="center">
-![xOgKJXm](https://github.com/user-attachments/assets/9724b4e5-6376-4a76-8bd9-1b8296dbd502)
-</p>
+
+![xOgKJXm](https://github.com/user-attachments/assets/7cf50866-83bd-4a90-86f7-250223f0ef06)
 
 # Hi there I'm Claudia!👋
 
