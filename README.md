@@ -1,4 +1,4 @@
-# Hi there, I'm Claudia!👋
+[![MasterHead](https://reheader.khaleelgibran.com/home)]([your GitHub link](https://github.com/ClaudiaRJ/ClaudiaRJ/blob/main/header.png))
 - 💤 Currently working on my own webpage as a portfolio 
 - 🌐 Currently learning Responsive Web Design and Python.
 - 📚 Studied in the DAM program at IFP in Barcelona , Spain  
