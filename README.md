@@ -1,4 +1,4 @@
-[![MasterHead](https://reheader.khaleelgibran.com/home)]([your GitHub link](https://github.com/ClaudiaRJ/ClaudiaRJ/blob/main/header.png))
+<img width="1000" height="300" alt="descarga" src="https://github.com/user-attachments/assets/d3b91138-12df-4971-9125-6ab628f649ba" />
 - 💤 Currently working on my own webpage as a portfolio 
 - 🌐 Currently learning Responsive Web Design and Python.
 - 📚 Studied in the DAM program at IFP in Barcelona , Spain  
