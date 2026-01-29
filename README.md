@@ -1,10 +1,10 @@
-<img width="1000" height="300" alt="descarga" src="https://github.com/user-attachments/assets/d3b91138-12df-4971-9125-6ab628f649ba" />
+#<img width="1000" height="300" alt="descarga" src="https://github.com/user-attachments/assets/d3b91138-12df-4971-9125-6ab628f649ba" />
 
 - 💤 Currently working on my own webpage as a portfolio 
 - 🌐 Currently learning Responsive Web Design and Python.
 - 📚 Studied in the DAM program at IFP in Barcelona , Spain  
 
-# Tech Stack
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&pause=1000&color=F7F7F7&width=435&lines=Tech+Stack)](https://git.io/typing-svg)
 ## Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
