@@ -1,8 +1,8 @@
 <img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/50ebc75d-2b9e-4299-9667-e641031a2c72" />
 
-- 💤 Currently working on my own webpage as a portfolio 
+- 💤 Currently working on my own webpage as a portfolio and studying a master of Design and Development of videogames.
 - 🌐 Currently learning Responsive Web Design and Python.
-- 📚 Studied in the DAM program at IFP in Barcelona , Spain  
+- 📚 Studied in the DAM program at IFP in Barcelona , Spain.
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&pause=1000&color=F7F7F7&width=435&lines=Tech+Stack)](https://git.io/typing-svg)
 ## Languages
