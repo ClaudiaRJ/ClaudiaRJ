@@ -1,4 +1,4 @@
-<img width="1000" height="300" alt="descarga" src="https://github.com/user-attachments/assets/d3b91138-12df-4971-9125-6ab628f649ba" />
+<img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/50ebc75d-2b9e-4299-9667-e641031a2c72" />
 
 - 💤 Currently working on my own webpage as a portfolio 
 - 🌐 Currently learning Responsive Web Design and Python.
